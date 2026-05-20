@@ -484,7 +484,7 @@
         <div class="row align-items-center justify-content-center g-0">
             <div class="col-6 col-md-3">
                 <div class="tn-stat">
-                    <div class="tn-stat-num">500<span>K+</span></div>
+                    <div class="tn-stat-num">50<span>K+</span></div>
                     <div class="tn-stat-label">Packages Delivered</div>
                 </div>
             </div>
@@ -493,7 +493,7 @@
             </div>
             <div class="col-6 col-md-3">
                 <div class="tn-stat">
-                    <div class="tn-stat-num">180<span>+</span></div>
+                    <div class="tn-stat-num">80<span>+</span></div>
                     <div class="tn-stat-label">Countries Covered</div>
                 </div>
             </div>
