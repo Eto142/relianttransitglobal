@@ -299,14 +299,14 @@
                 <i class="bi bi-list-ul"></i>
                 <span>All Shipments</span>
             </a>
-            <a href="{{ route('admin.send.email') }}" class="action-btn">
+            {{-- <a href="{{ route('admin.send.email') }}" class="action-btn">
                 <i class="bi bi-envelope-paper"></i>
                 <span>Send Email</span>
-            </a>
-            <a href="{{ route('admin.settings') }}" class="action-btn">
+            </a> --}}
+            {{-- <a href="{{ route('admin.settings') }}" class="action-btn">
                 <i class="bi bi-sliders"></i>
                 <span>Settings</span>
-            </a>
+            </a> --}}
             <a href="{{ route('admin.change.password') }}" class="action-btn">
                 <i class="bi bi-shield-lock"></i>
                 <span>Change Password</span>
