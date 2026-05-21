@@ -1124,7 +1124,7 @@ window.smartsupp||(function(d) {
                 </div>
                 <div class="topbar-contact-item">
                     <i class="fas fa-envelope"></i>
-                    <a href="mailto:support@santashiplogistics.org">support@santashiplogistics.com</a>
+                    <a href="mailto:support@relianttransitglobal.online">support@relianttransitglobal.online</a>
                 </div>
             </div>
         </div>
@@ -1535,7 +1535,7 @@ window.smartsupp||(function(d) {
             <div>
                 <div class="footer-col-title"><i class="fas fa-address-card"></i> Contact Us</div>
                 <ul class="footer-links">
-                    <li><a href="mailto:support@santashiplogistics.org"><i class="fas fa-envelope"></i> support@santashiplogistics.com</a></li>
+                    <li><a href="mailto:support@relianttransitglobal.online"><i class="fas fa-envelope"></i> support@relianttransitglobal.online</a></li>
                     <li><a href="#"><i class="fas fa-map-marker-alt"></i> 720 Grand Blvd, Deer Park, NY 11729, USA</a></li>
                 </ul>
             </div>

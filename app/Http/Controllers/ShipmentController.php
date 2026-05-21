@@ -81,7 +81,7 @@ class ShipmentController extends Controller
     $shipment = Shipment::create($validated);
 
     // Generate PDF
-    $logoPath = public_path('logo.png');
+    $logoPath = public_path('wp-content/uploads/2022/04/Screenshot_20231009_092214-removebg-preview.png');
     $logoData = file_exists($logoPath)
         ? 'data:image/png;base64,' . base64_encode(file_get_contents($logoPath))
         : null;
