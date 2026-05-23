@@ -78,7 +78,7 @@
 <div class="elementor-widget-container">
 <div class="elementor-divider"> <span class="elementor-divider-separator"> </span></div></div></div><div class="elementor-element elementor-element-46f79457 elementor-widget elementor-widget-heading" data-id="46f79457" data-element_type="widget" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<div class="elementor-heading-title elementor-size-default">With Offices around the world, we are able to provide reliable worldwide shipping <br> Address: Head Office: 12 Bishopsgate, London EC2N 4BQ, United Kingdom<br>We are have offices round the global that is why we are able to ship wordwide</div></div></div><section class="elementor-section elementor-inner-section elementor-element elementor-element-7b3315f5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7b3315f5" data-element_type="section">
+<div class="elementor-heading-title elementor-size-default">With Offices around the world, we are able to provide reliable worldwide shipping <br> Address: Head Office: 12 Bishopsgate, London EC2N 4BQ, United Kingdom<br></div></div></div><section class="elementor-section elementor-inner-section elementor-element elementor-element-7b3315f5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7b3315f5" data-element_type="section">
 <div class="elementor-container elementor-column-gap-no">
 <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-6dcf1c29" data-id="6dcf1c29" data-element_type="column">
 <div class="elementor-widget-wrap elementor-element-populated">
