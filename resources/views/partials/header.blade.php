@@ -140,11 +140,10 @@ iframe.goog-te-banner-frame { display: none !important; height: 0 !important; }
 </head>
 
 
-
 <!-- Smartsupp Live Chat script -->
 <script type="text/javascript">
 var _smartsupp = _smartsupp || {};
-_smartsupp.key = 'a5f7b19f8ab6edbd5b846f3df6c72877f2ede7bb';
+_smartsupp.key = '42e99fe7aa377dd725c35b383cfd4b2cb3264397';
 window.smartsupp||(function(d) {
   var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];
   s=d.getElementsByTagName('script')[0];c=d.createElement('script');
