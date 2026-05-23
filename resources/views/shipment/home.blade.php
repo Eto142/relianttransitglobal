@@ -1536,7 +1536,7 @@ window.smartsupp||(function(d) {
                 <div class="footer-col-title"><i class="fas fa-address-card"></i> Contact Us</div>
                 <ul class="footer-links">
                     <li><a href="mailto:support@relianttransitglobal.online"><i class="fas fa-envelope"></i> support@relianttransitglobal.online</a></li>
-                    <li><a href="#"><i class="fas fa-map-marker-alt"></i>  Kungsgatan 48, 111 35 Stockholm, Sweden</a></li>
+                    <li><a href="#"><i class="fas fa-map-marker-alt"></i>  12 Bishopsgate, London EC2N 4BQ, United Kingdom</a></li>
                 </ul>
             </div>
             <div>

@@ -51,9 +51,9 @@
     <iframe 
         loading="lazy" 
         onload="Wpfcll.r(this, true);" 
-        data-wpfc-original-src="https://maps.google.com/maps?q=Sverres+gate+126%2C+Sandefjord%2C+Norway&t=m&z=14&output=embed&iwloc=near" 
-        title="Sverres gate 126, Sandefjord" 
-        aria-label="Sverres gate 126, Sandefjord">
+        data-wpfc-original-src="https://maps.google.com/maps?q=12+Bishopsgate%2C+London+EC2N+4BQ%2C+United+Kingdom&t=m&z=14&output=embed&iwloc=near" 
+        title="12 Bishopsgate, London EC2N 4BQ, United Kingdom" 
+        aria-label="12 Bishopsgate, London EC2N 4BQ, United Kingdom">
     </iframe>
 </div>
 
@@ -78,7 +78,7 @@
 <div class="elementor-widget-container">
 <div class="elementor-divider"> <span class="elementor-divider-separator"> </span></div></div></div><div class="elementor-element elementor-element-46f79457 elementor-widget elementor-widget-heading" data-id="46f79457" data-element_type="widget" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<div class="elementor-heading-title elementor-size-default">We ship WorldWide. We have offices worldwide, and we operate with affiliation with many other companies round the world that share thesame interest. <br> Address: Head Office: Sverres gate 126, Sandefjord<br>We are have offices round the global that is why we are able to ship wordwide</div></div></div><section class="elementor-section elementor-inner-section elementor-element elementor-element-7b3315f5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7b3315f5" data-element_type="section">
+<div class="elementor-heading-title elementor-size-default">With Offices around the world, we are able to provide reliable worldwide shipping <br> Address: Head Office: 12 Bishopsgate, London EC2N 4BQ, United Kingdom<br>We are have offices round the global that is why we are able to ship wordwide</div></div></div><section class="elementor-section elementor-inner-section elementor-element elementor-element-7b3315f5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7b3315f5" data-element_type="section">
 <div class="elementor-container elementor-column-gap-no">
 <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-6dcf1c29" data-id="6dcf1c29" data-element_type="column">
 <div class="elementor-widget-wrap elementor-element-populated">
